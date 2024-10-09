@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Aramsatar
+- 👀 I’m interested in Mobile Application
+- 🌱 I’m currently learning Dart & flutter
+- 📫 How to reach me Contact by email
